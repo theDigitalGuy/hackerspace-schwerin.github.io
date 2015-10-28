@@ -1,0 +1,9 @@
+# Site settings
+title: Ein Hackerspace für Schwerin
+tag_text: Ein Hackerspace für Schwerin
+description: Initiative zur Gründung eines Hackerspace in Schwerin
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
