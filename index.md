@@ -16,7 +16,7 @@ Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen
 * Schreib eine Mail an [hackerspace-sn@mailbox.org](mailto:hackerspace-sn@mailbox.org).
 * Trag dich mit einer Mail an [hackerspace-subscribe@webmontag-schwerin.de](mailto:hackerspace-subscribe@webmontag-schwerin.de) in die Mailingliste ein.
 * Schau in der [fablab.sn Gruppe](https://www.facebook.com/groups/411294885691851) auf facebook vorbei. Dort wurden für ein [fablab](https://de.wikipedia.org/wiki/FabLab) bereits Inhalte zusammengetragen. 
-* Erzähle deinen Freunden und Kollegen von der Idee.
+* Erzähle Freunden und Kollegen davon. Verbreite die Idee. Vorlagen: [Aushang](/hackerspace-abreisser.pdf), [Miniflyer](/hackerspace-miniflyer.pdf)
 * __Wir treffen uns Anfang Dezember 2015.__ Bis dahin kannst du an den folgenden Themen mitarbeiten.
 
 ## Der Raum
