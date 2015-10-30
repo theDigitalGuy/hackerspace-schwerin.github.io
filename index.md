@@ -11,6 +11,8 @@ layout: default
 Du kannst von Anfang an dabei sein. Bei der Suche nach Mitstreitern, einem geeigneten Raum und dem Namen.  
 Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen mit.
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/WkiX7R1-kaY?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
+
 ## Wie geht's los?
 
 * Schreib eine Mail an [hackerspace-sn@mailbox.org](mailto:hackerspace-sn@mailbox.org).
