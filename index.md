@@ -11,6 +11,11 @@ layout: default
 Du kannst von Anfang an dabei sein. Bei der Suche nach Mitstreitern, einem geeigneten Raum und dem Namen.  
 Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen mit.
 
+## Updates
+
+* Terminfindung für 1. Treffen unter [http://supr.link/hksn1st](http://supr.link/hksn1st)
+
+
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/WkiX7R1-kaY?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 
 ## Wie geht's los?
