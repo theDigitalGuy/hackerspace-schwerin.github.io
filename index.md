@@ -15,10 +15,9 @@ Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen
 
 * Terminfindung für 1. Treffen unter [http://supr.link/hksn1st](http://supr.link/hksn1st)
 
+## Wie geht's los?
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/WkiX7R1-kaY?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
-
-## Wie geht's los?
 
 * Schreib eine Mail an [hackerspace-sn@mailbox.org](mailto:hackerspace-sn@mailbox.org).
 * Trag dich mit einer Mail an [hackerspace-subscribe@webmontag-schwerin.de](mailto:hackerspace-subscribe@webmontag-schwerin.de) in die Mailingliste ein.
