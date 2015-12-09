@@ -8,12 +8,12 @@ layout: default
 
 ## So ein Raum soll in Schwerin entstehen
 
-Du kannst von Anfang an dabei sein. Bei der Suche nach Mitstreitern, einem geeigneten Raum und dem Namen.  
+Du kannst von Anfang an dabei sein. Bei der Suche nach Mitstreitern, einem geeigneten Raum und dem Namen.
 Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen mit.
 
 ## Updates
 
-* Terminfindung für 1. Treffen unter [http://supr.link/hksn1st](http://supr.link/hksn1st)
+* Das 1. Treffen findet am 21. Dezember ab 20 Uhr im Medienbüro in der [Heinrich-Mann-Straße 15](http://osm.org/go/0NASsid6w?node=2440228384) statt.
 
 ## Wie geht's los?
 
@@ -21,13 +21,13 @@ Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen
 
 * Schreib eine Mail an [hackerspace-sn@mailbox.org](mailto:hackerspace-sn@mailbox.org).
 * Trag dich mit einer Mail an [hackerspace-subscribe@webmontag-schwerin.de](mailto:hackerspace-subscribe@webmontag-schwerin.de) in die Mailingliste ein.
-* Schau in der [fablab.sn Gruppe](https://www.facebook.com/groups/411294885691851) auf facebook vorbei. Dort wurden für ein [fablab](https://de.wikipedia.org/wiki/FabLab) bereits Inhalte zusammengetragen. 
+* Schau in der [fablab.sn Gruppe](https://www.facebook.com/groups/411294885691851) auf facebook vorbei. Dort wurden für ein [fablab](https://de.wikipedia.org/wiki/FabLab) bereits Inhalte zusammengetragen.
 * Erzähle Freunden und Kollegen davon. Verbreite die Idee. Vorlagen: [Aushang](/hackerspace-abreisser.pdf), [Miniflyer](/hackerspace-miniflyer.pdf)
 * __Wir treffen uns Anfang Dezember 2015.__ Bis dahin kannst du an den folgenden Themen mitarbeiten.
 
 ## Der Raum
 
-Für einen Hackerspace brauchen wir natürlich einen passenden Raum. Nicht zu klein, nicht zu groß, gut erreichbar und finanzierbar sollte er sein.  
+Für einen Hackerspace brauchen wir natürlich einen passenden Raum. Nicht zu klein, nicht zu groß, gut erreichbar und finanzierbar sollte er sein.
 Deine Ideen kannst du [in diesem Pad](https://pad.systemli.org/p/hacksn-raum) hinterlegen.
 
 ## Der Name
