@@ -14,6 +14,7 @@ Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen
 ## Updates
 
 * Das 1. Treffen findet am 21. Dezember ab 20 Uhr im Medienbüro in der [Heinrich-Mann-Straße 15](http://osm.org/go/0NASsid6w?node=2440228384) statt.
+* Für das Treffen brauchen wir deine [Ideen für den Space](https://pad.systemli.org/p/hacksn-raum) und den [Verein](https://pad.systemli.org/p/hacksn-satzung).
 
 ## Wie geht's los?
 
@@ -23,7 +24,6 @@ Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen
 * Trag dich mit einer Mail an [hackerspace-subscribe@webmontag-schwerin.de](mailto:hackerspace-subscribe@webmontag-schwerin.de) in die Mailingliste ein.
 * Schau in der [fablab.sn Gruppe](https://www.facebook.com/groups/411294885691851) auf facebook vorbei. Dort wurden für ein [fablab](https://de.wikipedia.org/wiki/FabLab) bereits Inhalte zusammengetragen.
 * Erzähle Freunden und Kollegen davon. Verbreite die Idee. Vorlagen: [Aushang](/hackerspace-abreisser.pdf), [Miniflyer](/hackerspace-miniflyer.pdf)
-* __Wir treffen uns Anfang Dezember 2015.__ Bis dahin kannst du an den folgenden Themen mitarbeiten.
 
 ## Der Raum
 
