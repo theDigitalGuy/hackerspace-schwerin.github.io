@@ -45,6 +45,6 @@ Der Verein für den rechtlichen Rahmen wie Mietverträge und DSL-Anschlüsse mus
 
 ## Bis Anfang Dezember
 
-Der genaue Termin und Treffpunkt werden rechtzeitig auf dieser Seite, per [Mail](mailto:hackerspace-sn@mailbox.org) und [Mailingliste](hackerspace-subscribe@webmontag-schwerin.de) sowie in der [Gruppe auf Facebook](https://www.facebook.com/groups/411294885691851) bekannt gegeben.
+Der genaue Termin und Treffpunkt werden rechtzeitig auf dieser Seite, per [Mail](mailto:hackerspace-sn@mailbox.org) und [Mailingliste](mailto:hackerspace-subscribe@webmontag-schwerin.de) sowie in der [Gruppe auf Facebook](https://www.facebook.com/groups/411294885691851) bekannt gegeben.
 
 <p style="text-align:right; font-size:85%; margin-top:3rem;">Es gilt das Impressum von <a href="http://webmontag-schwerin.de/#kontakt">webmontag-schwerin.de</a></p>
