@@ -13,7 +13,7 @@ Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen
 
 ## Updates
 
-* 2. Treffen am 16. Januar 2016 20 Uhr im Medienbüro in der [Heinrich-Mann-Straße 15](http://osm.org/go/0NASsid6w?node=2440228384)
+* **Treffen am 16. Januar 2016** 20 Uhr im Medienbüro in der [Heinrich-Mann-Straße 15](http://osm.org/go/0NASsid6w?node=2440228384)
 * Das 1. Treffen fand am 21. Dezember 20 Uhr im Medienbüro in der [Heinrich-Mann-Straße 15](http://osm.org/go/0NASsid6w?node=2440228384) statt.
 * Für das Treffen brauchen wir deine [Ideen für den Space](https://pad.systemli.org/p/hacksn-raum) und den [Verein](https://pad.systemli.org/p/hacksn-satzung).
 
