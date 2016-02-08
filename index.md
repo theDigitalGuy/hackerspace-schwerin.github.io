@@ -41,12 +41,4 @@ Kurz und prägnant oder witzig? Ohne einen Namen geht es nicht. Trag deine Ideen
 
 Was würdest du gerne im Hackerspace machen und was kannst du beitragen? Schreib es [in dieses Pad](https://pad.systemli.org/p/hacksn-raum).
 
-## Die Vereinssatzung
-
-Der Verein für den rechtlichen Rahmen wie Mietverträge und DSL-Anschlüsse muss sich eine Satzung geben. Hier kannst du [an der Satzung mitschreiben](https://pad.systemli.org/p/hacksn-satzung).
-
-## Bis Anfang Dezember
-
-Der genaue Termin und Treffpunkt werden rechtzeitig auf dieser Seite, per [Mail](mailto:hackerspace-sn@mailbox.org) und [Mailingliste](mailto:hackerspace-subscribe@webmontag-schwerin.de) sowie in der [Gruppe auf Facebook](https://www.facebook.com/groups/411294885691851) bekannt gegeben.
-
 <p style="text-align:right; font-size:85%; margin-top:3rem;">Es gilt das Impressum von <a href="http://webmontag-schwerin.de/#kontakt">webmontag-schwerin.de</a></p>
