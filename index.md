@@ -13,7 +13,8 @@ Gestalte den Raum, die Vereinssatzung und das Programm nach deinen Vorstellungen
 
 ## Updates
 
-* __nächstes Treffen 12.02.2016 - 20 Uhr - im Haus 1 im TGZ__
+* __nächstes Treffen 26.02.2016 - 20 Uhr - Medienbüro Heinrich-Mann-Straße 15__
+* Treffen 12.02.2016 - 20 Uhr - im Haus 1 im TGZ
 * Treffen 29.01.2016 - 20 Uhr - vor dem Haus 1 im TGZ
 * Treffen am 16. Januar 2016 - 20 Uhr im Medienbüro in der [Heinrich-Mann-Straße 15](http://osm.org/go/0NASsid6w?node=2440228384)
 * Das 1. Treffen fand am 21. Dezember 20 Uhr im Medienbüro in der [Heinrich-Mann-Straße 15](http://osm.org/go/0NASsid6w?node=2440228384) statt.
